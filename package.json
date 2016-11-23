@@ -19,7 +19,7 @@
     "typed arrays"
   ],
   "devDependencies": {
-    "vows": "0.7.x"
+    "vows": "~0.8.1"
   },
   "author": {
     "name": "Jon-Carlos Rivera",
